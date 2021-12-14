@@ -37,6 +37,6 @@ spec:
     spec:
       containers:
       - name: java-helloworld
-        image: docker.io/aslabs/java-helloworld:latest
+        image: docker.io/rappalini/javahelloworld:latest
         ports:
         - containerPort: 7000
